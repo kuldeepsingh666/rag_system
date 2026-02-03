@@ -1,0 +1,64 @@
+TechVenture Inc. - Board Meeting Minutes
+
+Date: September 25, 2023
+Location: TechVenture HQ, San Francisco (Hybrid)
+Time: 2:00 PM - 5:00 PM PDT
+
+Attendees:
+- Sarah Chen, CEO (Chair)
+- Michael Rodriguez, CTO
+- Jennifer Walsh, Horizon Ventures
+- David Park, Independent Director
+- Amanda Foster, CFO (non-voting)
+
+Absent: None
+
+Agenda Items:
+
+1. Q3 2023 Financial Review
+   Amanda Foster presented Q3 results:
+   - Revenue: $22.5M (63% YoY growth)
+   - Net Income: $1.8M
+   - Cash Position: $45M
+   
+   Motion to approve Q3 financials: Passed unanimously
+
+2. InsightEngine Performance Update
+   Sarah Chen reported on InsightEngine since January 2023 launch:
+   - Adoption rate: 35% of enterprise customers
+   - Contribution: 26% of Q3 revenue
+   - Customer satisfaction: 4.6/5.0 rating
+   
+   Board expressed satisfaction with product market fit.
+
+3. European Expansion Status
+   Discussion of London office opening (January 2024):
+   - Approved additional $5M investment for European operations
+   - Approved hiring of VP EMEA (James Morrison)
+   - Set revenue target: $15M from Europe in 2024
+
+4. Series B Funding Discussion
+   Jennifer Walsh presented preliminary terms for Series B:
+   - Target raise: $50-75M
+   - Valuation expectation: $400-500M
+   - Timeline: Q1 2024
+   
+   Board authorized management to engage investment banks.
+
+5. Executive Compensation Review
+   Approved annual equity refresh grants for executives:
+   - CEO: 50,000 options
+   - CTO: 40,000 options
+   - CFO: 30,000 options
+
+6. Strategic Acquisition Discussion
+   Michael Rodriguez presented potential acquisition target:
+   - Company: AI Analytics startup (name redacted)
+   - Estimated price: $20-30M
+   - Synergies: Enhance InsightEngine capabilities
+   
+   Board authorized due diligence.
+
+Next Meeting: December 15, 2023
+
+Minutes approved by: David Park, Board Secretary

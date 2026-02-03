@@ -1,0 +1,58 @@
+TechVenture Customer Case Study: GlobalTech Corp
+
+Customer: GlobalTech Corp
+Industry: Technology Manufacturing
+Company Size: 5,000 employees
+Products Used: ProjectFlow Enterprise, InsightEngine
+
+Background:
+GlobalTech Corp is a leading technology manufacturing company based in Chicago, with operations in 12 countries. Prior to implementing TechVenture solutions, they struggled with fragmented project management tools across departments.
+
+Challenge:
+- 15+ different project management tools in use across departments
+- No visibility into cross-functional project status
+- Frequent project delays and cost overruns
+- Manual reporting consuming 20+ hours per week
+
+Solution:
+GlobalTech implemented ProjectFlow Enterprise in March 2022, followed by InsightEngine in April 2023.
+
+Implementation Timeline:
+- Phase 1 (Q1 2022): Pilot with IT department (200 users)
+- Phase 2 (Q2 2022): Rollout to Engineering (800 users)
+- Phase 3 (Q3 2022): Company-wide deployment (3,500 users)
+- Phase 4 (Q2 2023): InsightEngine integration
+
+Results (After 18 months):
+
+Quantitative Improvements:
+- 35% reduction in project overruns
+- 25% faster project completion times
+- 40% reduction in status meeting time
+- $2.1M annual savings from consolidated tools
+- 15 hours/week saved on manual reporting
+
+Qualitative Improvements:
+- Improved cross-department collaboration
+- Real-time visibility for executives
+- Better resource utilization
+- Increased employee satisfaction
+
+Key Testimonials:
+
+"InsightEngine has transformed our project planning process. We've reduced project overruns by 35%." 
+- James Morrison, VP Operations, GlobalTech Corp
+
+"ProjectFlow became our single source of truth. We finally have visibility across all our global projects."
+- Lisa Park, Director of PMO, GlobalTech Corp
+
+Products Deployed:
+- ProjectFlow Enterprise (3,500 seats)
+- InsightEngine Professional (500 seats)
+- DataSync Premium (1 instance)
+
+Contract Value: $450,000 annually
+
+Reference Contact:
+James Morrison, VP Operations
+james.morrison@globaltech.com

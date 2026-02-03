@@ -1,0 +1,55 @@
+Robert Kim - Executive Biography
+
+Name: Robert Kim
+Title: VP of Data Products
+Company: TechVenture Inc.
+
+Professional Background:
+Robert Kim joined TechVenture in September 2021 as VP of Data Products following TechVenture's acquisition of DataSync Solutions, which he co-founded. He reports directly to CTO Michael Rodriguez.
+
+DataSync Solutions (Founder Journey):
+Robert co-founded DataSync Solutions in 2017 with Lisa Zhang in Austin, Texas. Starting with just 3 engineers, they built the company to 45 employees before the acquisition.
+
+Key achievements at DataSync:
+- Developed proprietary real-time sync algorithms
+- Grew to 120 enterprise customers
+- Achieved $3.2M annual revenue
+- Raised $2M in seed funding
+
+Prior Experience:
+Before founding DataSync, Robert worked at:
+
+- 2013-2017: Senior Engineer, Oracle
+  - Led data replication team
+  - Developed enterprise ETL solutions
+  - 15+ patents in data synchronization
+
+- 2009-2013: Software Engineer, IBM
+  - Worked on Db2 database team
+  - Specialized in distributed systems
+
+Education:
+- MS Computer Science, UT Austin, 2009
+- BS Computer Science, UCLA, 2007
+
+Current Responsibilities at TechVenture:
+- Oversee DataSync product line
+- Lead integration of data products with InsightEngine
+- Manage team of 35 engineers
+- Drive data platform strategy
+
+Key Projects Since Joining:
+1. DataSync 2.0 release (50% performance improvement)
+2. Integration with ProjectFlow (real-time project data sync)
+3. InsightEngine data connectors (200+ sources)
+
+Personal:
+Robert lives in Austin, Texas with his family. He is active in the Austin tech community and mentors startups through Capital Factory.
+
+Publications and Patents:
+- 18 US patents in data synchronization
+- Co-author: "Real-time Data Integration at Scale" (VLDB 2016)
+
+Contact:
+Email: robert.kim@techventure.com
+LinkedIn: linkedin.com/in/robertkim

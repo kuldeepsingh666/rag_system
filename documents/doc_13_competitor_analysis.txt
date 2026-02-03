@@ -1,0 +1,77 @@
+Competitor Analysis: Enterprise Project Management Market
+
+Prepared by: Strategy Team
+Date: August 2024
+Classification: Internal Use Only
+
+Market Overview:
+The enterprise project management software market is valued at $6.7B globally, with projected growth to $9.8B by 2027 (CAGR: 10.2%).
+
+Key Competitors:
+
+1. Atlassian (Jira)
+   - Market Position: Leader
+   - Strength: Developer-focused, strong ecosystem
+   - Weakness: Complex for non-technical users
+   - Pricing: $8.15-16.25/user/month
+   - Market Share: 28%
+
+2. Monday.com
+   - Market Position: Fast-growing challenger
+   - Strength: User-friendly, visual interface
+   - Weakness: Limited enterprise features
+   - Pricing: $10-20/user/month
+   - Market Share: 12%
+
+3. Asana
+   - Market Position: Established player
+   - Strength: Strong workflow automation
+   - Weakness: Expensive at scale
+   - Pricing: $13.49-30.49/user/month
+   - Market Share: 15%
+
+4. Smartsheet
+   - Market Position: Enterprise-focused
+   - Strength: Spreadsheet-familiar interface
+   - Weakness: Learning curve for advanced features
+   - Pricing: $9-25/user/month
+   - Market Share: 8%
+
+5. Microsoft Project
+   - Market Position: Legacy leader
+   - Strength: Microsoft ecosystem integration
+   - Weakness: Outdated UX, slow innovation
+   - Pricing: $10-55/user/month
+   - Market Share: 18%
+
+TechVenture Competitive Position:
+
+Our Strengths:
+- AI-powered insights (InsightEngine differentiation)
+- Modern, intuitive interface
+- Competitive pricing
+- Fast innovation pace
+- Strong customer satisfaction (NPS: 62)
+
+Our Weaknesses:
+- Lower brand awareness than established players
+- Smaller partner ecosystem
+- Limited international presence (improving)
+
+Market Share:
+- TechVenture Market Share: 4% (growing)
+- Target Market Share (2026): 8%
+
+Strategic Recommendations:
+1. Invest heavily in InsightEngine as key differentiator
+2. Build strategic partnerships for ecosystem expansion
+3. Accelerate European expansion
+4. Target mid-market as primary growth segment
+5. Develop competitive displacement campaigns
+
+Win/Loss Analysis (Last 12 months):
+- Wins against Asana: 45%
+- Wins against Monday.com: 52%
+- Wins against Jira: 38%
+- Wins against Smartsheet: 55%
+- Wins against Microsoft Project: 60%

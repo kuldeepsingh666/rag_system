@@ -1,0 +1,50 @@
+TechVenture Customer Case Study: Retail Solutions Inc.
+
+Customer: Retail Solutions Inc.
+Industry: Retail Technology
+Company Size: 2,500 employees
+Products Used: ProjectFlow Business, TeamConnect
+
+Background:
+Retail Solutions Inc. provides point-of-sale and inventory management systems to retail businesses across North America. They implemented ProjectFlow in 2021 to manage their software development projects.
+
+Challenge:
+- Siloed development teams across 4 locations
+- Inconsistent project management practices
+- Poor visibility into project dependencies
+- Customer complaints about delayed feature releases
+
+Solution:
+Retail Solutions deployed ProjectFlow Business tier in Q2 2021, followed by TeamConnect in Q4 2021.
+
+Implementation Details:
+- Users: 1,200 active users
+- Projects: 45+ active software development projects
+- Integration: Jira, GitHub, Confluence
+
+Results (After 12 months):
+
+Improvements Achieved:
+- 20% reduction in project delays
+- 30% improvement in cross-team collaboration
+- Standardized project management across all locations
+- Better resource allocation
+
+Customer Feedback:
+
+"ProjectFlow helped us standardize our development processes. The Jira integration was essential for our engineering teams."
+- Maria Santos, CIO, Retail Solutions Inc.
+
+"The natural language query feature is game-changing. Our non-technical managers can now access insights without IT support."
+- Maria Santos, CIO, Retail Solutions Inc.
+
+Contract Details:
+- Annual Contract Value: $180,000
+- Contract Term: 3 years
+- Renewal Status: Renewed in 2024
+
+Note: Retail Solutions is exploring InsightEngine adoption for 2024.
+
+Reference Contact:
+Maria Santos, CIO
+maria.santos@retailsolutions.com

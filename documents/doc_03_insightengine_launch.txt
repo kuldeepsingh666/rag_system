@@ -1,0 +1,37 @@
+InsightEngine Product Launch - Press Release
+
+FOR IMMEDIATE RELEASE
+Date: January 10, 2023
+Contact: Media Relations, TechVenture Inc.
+
+TechVenture Inc. Launches InsightEngine: AI-Powered Analytics for Enterprise
+
+SAN FRANCISCO, CA - TechVenture Inc. today announced the launch of InsightEngine, a revolutionary AI-powered analytics platform designed to transform how enterprises make data-driven decisions.
+
+Product Overview:
+InsightEngine leverages advanced machine learning algorithms to automatically analyze business data and provide actionable insights. The platform integrates seamlessly with TechVenture's existing product suite, including ProjectFlow and TeamConnect.
+
+Key Features:
+1. Automated Insight Generation - AI identifies trends and anomalies without manual configuration
+2. Natural Language Queries - Ask questions in plain English, get data-driven answers
+3. Predictive Analytics - Forecast project outcomes and resource needs
+4. Real-time Dashboards - Live visualization of key metrics
+5. Integration Hub - Connect to 200+ data sources
+
+Pricing:
+- Starter Plan: $49/user/month (up to 10 users)
+- Professional Plan: $99/user/month (up to 100 users)
+- Enterprise Plan: Custom pricing (unlimited users)
+
+Availability:
+InsightEngine is available immediately for all existing ProjectFlow Enterprise customers. New customers can sign up at www.techventure.com/insightengine.
+
+Customer Testimonials:
+"InsightEngine has transformed our project planning process. We've reduced project overruns by 35%." - James Morrison, VP Operations, GlobalTech Corp
+
+"The natural language query feature is game-changing. Our non-technical managers can now access insights without IT support." - Maria Santos, CIO, Retail Solutions Inc.
+
+About TechVenture Inc:
+TechVenture Inc. is a leading provider of enterprise software solutions, serving over 500,000 users worldwide. Founded in 2018, the company is headquartered in San Francisco with offices in Austin and London.
+
+###

@@ -1,0 +1,40 @@
+TechVenture Inc. - Company Overview
+
+Founded: March 15, 2018
+Headquarters: San Francisco, California
+CEO: Sarah Chen
+Industry: Enterprise Software
+
+Company History:
+TechVenture Inc. was founded in 2018 by Sarah Chen and Michael Rodriguez after they left positions at major tech companies. The company began with a focus on cloud-based project management tools and has since expanded into enterprise AI solutions.
+
+Key Milestones:
+- 2018: Company founded with $2M seed funding
+- 2019: Launched ProjectFlow, their flagship project management platform
+- 2020: Raised Series A funding of $15M led by Horizon Ventures
+- 2021: Acquired DataSync Solutions for $8M
+- 2022: Reached 500,000 paying users
+- 2023: Launched AI-powered analytics suite "InsightEngine"
+- 2024: Expanded to European markets, opened London office
+
+Products:
+1. ProjectFlow - Cloud-based project management (launched 2019)
+2. TeamConnect - Internal communication platform (launched 2020)
+3. DataSync - Data integration tools (acquired 2021)
+4. InsightEngine - AI analytics (launched 2023)
+
+Financial Information:
+- 2022 Revenue: $45M
+- 2023 Revenue: $78M
+- 2024 Revenue: $125M (projected)
+
+Employee Count:
+- 2020: 85 employees
+- 2022: 210 employees
+- 2024: 450 employees
+
+Board of Directors:
+- Sarah Chen (CEO, Co-founder)
+- Michael Rodriguez (CTO, Co-founder)
+- Jennifer Walsh (Horizon Ventures)
+- David Park (Independent Director)
